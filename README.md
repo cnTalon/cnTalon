@@ -4,10 +4,6 @@
 - 💬 Ask me about anything! Happy to talk about the ants on the ground or the bugs in the lines <br>
 - ⚡ Fun fact: I can speak Mandarin, English, Afrikaans, Cantonese and a bit of Spanish and Italian
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sadiechen/) 
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -37,9 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=cnTalon&theme=calm&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cnTalon&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnTalon&theme=calm&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cnTalon&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cnTalon&icon=0&color=0)](https://visitcount.itsvg.in)
