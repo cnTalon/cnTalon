@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on an one-a-day AI 20 day Project<br>
-- 🌱 I’m currently learning how to program with AI<br>
+- 🌱 I’m currently learning Java, Python and CSS<br>
 - 💬 Ask me about anything! Happy to talk about the ants on the ground or the bugs in the lines <br>
 - ⚡ Fun fact: I can speak Mandarin, English, Afrikaans, Cantonese and a bit of Spanish and Italian
 
